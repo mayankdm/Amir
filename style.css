@@ -1,0 +1,142 @@
+.custom-card {
+    width: 50%;
+    top: 3rem;
+    margin: 8rem 0 0 25rem;
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.custom-header {
+    color: #6e40db;
+    background: #fff;
+    font-weight: 800;
+    border: none;
+    padding: 2rem;
+}
+
+.custom-title {
+    color: #4b4e61;
+}
+
+.custom-title-right {
+    color: #4b4e61;
+    font-size: 0.8rem;
+}
+
+.custom-link-right {
+    color: #bfabef;
+    font-size: 0.8rem;
+}
+
+.right-header {
+    float: right;
+}
+
+.custom-card-body {
+    background-image: url(./background1.png);
+    background-repeat: no-repeat;
+}
+
+.custom-container {
+    width: 23rem;
+    float: right;
+}
+
+.form-title {
+    color: #515467;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+.form-title-msg {
+    color: #cccdd2;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.custom-form-group {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+#basic-addon1,
+#basic-addon {
+    height: 2.5rem;
+    background: #fff;
+    border-right: none;
+}
+
+.user-icon {
+    color: #6534d9;
+}
+
+.form-button {
+    background: #6534d9;
+    width: 8rem;
+    border-radius: 1rem;
+}
+
+.form-link {
+    color: #9c9da8;
+    float: right;
+    margin: 0.8rem 5rem 0 0;
+    text-decoration: none;
+    font-size: 0.7rem;
+    font-weight: 600;
+}
+
+.custom-form {
+    margin-top: 2rem;
+}
+
+.form-control:focus {
+    border: 2px solid #c1adf0;
+    box-shadow: none;
+}
+
+.user-icon,
+.lock-icon {
+    position: absolute;
+    z-index: 100;
+    margin: 0.8rem;
+}
+
+#username,
+#password {
+    text-indent: 1.5rem;
+}
+
+.footer {
+    margin: 1rem 6rem 3rem 0;
+    text-align: right;
+}
+
+.img {
+    background: #f4f2f8;
+    border-radius: 2rem;
+}
+
+.img-google {
+    width: 3rem;
+}
+
+.img-facebook {
+    width: 3rem;
+}
+
+.img-twitter {
+    width: 3rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.login-alternative {
+    margin: 0 1rem;
+}
+
+.background {
+    position: absolute;
+    width: 100vw;
+    height: 40rem;
+}
